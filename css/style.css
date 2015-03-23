@@ -63,6 +63,7 @@ body {
 	margin: 0 auto;
     width: 970px;
     padding: 0 15px;
+    text-align: center;
 }
 /* Navigation Section */
 .top-navigation {
@@ -121,7 +122,7 @@ body {
  }
 .big-button {
 	display: inline-block;
-	margin-top: 1.563rem;
+	margin-top: 2.563rem;
 	text-align: center;
 	line-height: 1.33;
     width: 9.688rem;
