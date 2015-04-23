@@ -52,8 +52,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
 /* End of reset */
+
 /* Custom Styles begin */
 body {
     font-family: 'Roboto', sans-serif;
@@ -208,3 +208,4 @@ body {
     font-size: 0.9rem;
     font-weight: 300;
     color: #838994;
+}
