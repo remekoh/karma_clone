@@ -250,16 +250,16 @@ button:hover {
  */
 @media (min-width: 48rem) {
   .content {
-      width: 46rem;
+    width: 46rem;
   }
 }
 @media (min-width: 62rem) {
   .content {
-      width: 60rem;
+    width: 60rem;
   }
 }
 @media (min-width: 75rem) {
   .content {
-      width: 60%;
+    width: 60%;
   }
 }
